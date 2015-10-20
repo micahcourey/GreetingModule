@@ -1,7 +1,7 @@
 Greeting Drupal Module
 ======================
 
-By Micah Courey, 01-Oct-2015
+By Micah Courey, 18-Oct-2015
 
 A module for Drupal which greets website users as they log in/out
 
@@ -19,7 +19,7 @@ $ mv greeting /sites/all/modules
 
 Technologies Used
 ----------
-JavaScript, AngularJS, HTML, Bootstrap, CSS
+PHP, Drupal
 
 License
 ----------
